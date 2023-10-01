@@ -1,7 +1,7 @@
 # Popular_Research
 This repository contains various initiatives and published works on the campaign of research popularization among young masses in the world.
 
-# **Governement of India Initiatives**
+# **Vigyan Prasar**
 
 ![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/f738ef11-e870-488e-9f03-d8675b8fd0ff)
 
