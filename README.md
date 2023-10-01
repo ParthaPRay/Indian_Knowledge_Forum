@@ -50,6 +50,12 @@ The council gives the following awards to science students, teachers and populis
 ![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/feba5450-7156-4f45-877e-bf7766a3db47)
 
 Link: https://bangiyabijnanparishad.org/
+Email: bijnanparishad@gmail.com
+
+# Paschim Banga Vigyam Mancha
+
+![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/1e3dc695-e92b-42de-8cb7-a29a3e52df37)
+
 
 # **MacTutor** 
 
