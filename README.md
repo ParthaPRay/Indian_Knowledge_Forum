@@ -35,12 +35,12 @@ Link: https://dst.gov.in/scientific-programmes/st-and-socio-economic-development
 
 The council gives the following awards to science students, teachers and populisers on National Science Day every year:
 
-*  National Award for Outstanding Effort in Science and Technology Communication through Innovative and Traditional Methods, which carries INR 200,000.
-*  National Award for Outstanding Effort in Science and Technology Communication through Print Media including Books and Magazines, which carries INR 100,000.
-*  National Award for Outstanding Effort in Science and Technology Popularization among Children, which carries INR 100,000.
-*  National Award for Outstanding Effort in Translation of Popular Science and Technology Literature, which carries INR 100,000.
-*  National Award for Outstanding Effort in Science and Technology Communication in the Print Medium, which carries INR 100,000.
-*  National Award for Outstanding Effort in Science and Technology Communication in the Electronic Medium, which carries INR 100,000.
+      *  National Award for Outstanding Effort in Science and Technology Communication through Innovative and Traditional Methods, which carries INR 200,000.
+      *  National Award for Outstanding Effort in Science and Technology Communication through Print Media including Books and Magazines, which carries INR 100,000.
+      *  National Award for Outstanding Effort in Science and Technology Popularization among Children, which carries INR 100,000.
+      *  National Award for Outstanding Effort in Translation of Popular Science and Technology Literature, which carries INR 100,000.
+      *  National Award for Outstanding Effort in Science and Technology Communication in the Print Medium, which carries INR 100,000.
+      *  National Award for Outstanding Effort in Science and Technology Communication in the Electronic Medium, which carries INR 100,000.
 
 
 # **MacTutor** 
