@@ -44,6 +44,13 @@ The council gives the following awards to science students, teachers and populis
       *  National Award for Outstanding Effort in Science and Technology Communication in the Electronic Medium, which carries INR 100,000.
 
 
+
+# বঙ্গীয় বিজ্ঞান পরিষদ
+
+![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/feba5450-7156-4f45-877e-bf7766a3db47)
+
+Link: https://bangiyabijnanparishad.org/
+
 # **MacTutor** 
 
 ![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/ab8e4834-72ff-4628-b79b-ef5df5a194eb)
