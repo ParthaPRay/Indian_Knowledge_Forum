@@ -3,7 +3,7 @@ This repository contains various initiatives and published works on the campaign
 
 # **Governement of India Initiatives**
 
-<img src="https://vigyanprasar.gov.in/wp-content/themes/vigyanprasar/images/logo_vp.jpg" width=50% height=50%>
+![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/f738ef11-e870-488e-9f03-d8675b8fd0ff)
 
    * Vigyan Prasar (https://vigyanprasar.gov.in/)
      
