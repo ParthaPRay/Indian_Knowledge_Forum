@@ -54,7 +54,7 @@ Email: bijnanparishad@gmail.com
 
 # Paschim Banga Vigyam Mancha
 
-![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/1e3dc695-e92b-42de-8cb7-a29a3e52df37)
+![271821456-1e3dc695-e92b-42de-8cb7-a29a3e52df37](https://github.com/ParthaPRay/Popular_Research/assets/1689639/0dc65358-4d2e-49b7-ae8f-3352a63c5075)
 
 
 # **MacTutor** 
