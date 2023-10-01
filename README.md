@@ -28,7 +28,7 @@ This repository contains various initiatives and published works on the campaign
 
 2. National Council for Science and Technology Communication (NCSTC)  (https://dst.gov.in/scientific-programmes/st-and-socio-economic-development/national-council-science-technology-communication-ncstc)
 
-![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/63898774-0681-49c8-984d-2b8dab439472)
+<img src="https://www.ncsc.co.in/img/logo/Logo2.png" width=50% height=50%>
 
 The council gives the following awards to science students, teachers and populisers on National Science Day every year:
 
