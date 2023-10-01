@@ -5,8 +5,9 @@ This repository contains various initiatives and published works on the campaign
 
 ![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/f738ef11-e870-488e-9f03-d8675b8fd0ff)
 
-   * Vigyan Prasar (https://vigyanprasar.gov.in/)
-     
+Link: https://vigyanprasar.gov.in/
+
+ 
        *  Dream 2047 (https://vigyanprasar.gov.in/dream-2047/)
            * Email: **rnath@vigyanprasar.gov.in, rnath07@gmail.com** for submission on topic of the article should be of general interest, however, more emphasis may be given to S&T capabilities of India within 3000 words.
            * More information can be obtain from **dream@vigyanprasar.gov.in**
@@ -28,7 +29,9 @@ This repository contains various initiatives and published works on the campaign
 
 # National Council for Science and Technology Communication (NCSTC)  
 
-<img src="https://www.ncsc.co.in/img/logo/Logo2.png" width=50% height=50%> (https://dst.gov.in/scientific-programmes/st-and-socio-economic-development/national-council-science-technology-communication-ncstc)
+<img src="https://www.ncsc.co.in/img/logo/Logo2.png" width=50% height=50%> 
+
+Link: https://dst.gov.in/scientific-programmes/st-and-socio-economic-development/national-council-science-technology-communication-ncstc
 
 The council gives the following awards to science students, teachers and populisers on National Science Day every year:
 
