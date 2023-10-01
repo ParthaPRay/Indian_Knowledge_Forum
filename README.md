@@ -20,6 +20,7 @@ Link: https://vigyanprasar.gov.in/
              
        *  VIPNET News (https://vigyanprasar.gov.in/vipnet-news-3/)
           *  Science club initiave.
+          *  Curiosity News Letter: Email: curiosity@vigyanprasar.gov.in for submission of articles
           *  Email: **vipnet@vigyanprasar.gov.in**
 
         *  Science Outreach - Bengali
