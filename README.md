@@ -40,7 +40,11 @@ The council gives the following awards to science students, teachers and populis
 *  National Award for Outstanding Effort in Science and Technology Communication in the Electronic Medium, which carries INR 100,000.
 
 
-# **MacTutor** is a free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials. 
-  Link: https://mathshistory.st-andrews.ac.uk/
+# **MacTutor** 
 
 ![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/ab8e4834-72ff-4628-b79b-ef5df5a194eb)
+MacTutor is a free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials. 
+
+  Link: https://mathshistory.st-andrews.ac.uk/
+
+
