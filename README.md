@@ -1,9 +1,9 @@
 # Popular_Research
 This repository contains various initiatives and published works on the campaign of research popularization among young masses in the world.
 
-1. **Governement of India Initiatives**
+# **Governement of India Initiatives**
 
-![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/f3aed01b-2bfa-42a4-b98d-6eca56f140ee)
+<img src="https://vigyanprasar.gov.in/wp-content/themes/vigyanprasar/images/logo_vp.jpg" width=50% height=50%>
 
    * Vigyan Prasar (https://vigyanprasar.gov.in/)
      
@@ -26,7 +26,7 @@ This repository contains various initiatives and published works on the campaign
 
 
 
-2. National Council for Science and Technology Communication (NCSTC)  (https://dst.gov.in/scientific-programmes/st-and-socio-economic-development/national-council-science-technology-communication-ncstc)
+# National Council for Science and Technology Communication (NCSTC)  (https://dst.gov.in/scientific-programmes/st-and-socio-economic-development/national-council-science-technology-communication-ncstc)
 
 <img src="https://www.ncsc.co.in/img/logo/Logo2.png" width=50% height=50%>
 
@@ -40,7 +40,7 @@ The council gives the following awards to science students, teachers and populis
 *  National Award for Outstanding Effort in Science and Technology Communication in the Electronic Medium, which carries INR 100,000.
 
 
-3. **MacTutor** is a free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials. 
+# **MacTutor** is a free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials. 
   Link: https://mathshistory.st-andrews.ac.uk/
 
 ![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/ab8e4834-72ff-4628-b79b-ef5df5a194eb)
