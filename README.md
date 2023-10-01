@@ -1,13 +1,7 @@
 # Popular_Research
 This repository contains various initiatives and published works on the campaign of research popularization among young masses in the world.
 
-1. **MacTutor **is a free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials. 
-  Link: https://mathshistory.st-andrews.ac.uk/
-
-![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/ab8e4834-72ff-4628-b79b-ef5df5a194eb)
-
-
-3. **Governement of India Initiatives**
+1. **Governement of India Initiatives**
 
 ![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/f3aed01b-2bfa-42a4-b98d-6eca56f140ee)
 
@@ -25,3 +19,9 @@ This repository contains various initiatives and published works on the campaign
              
        *  VIPNET News (https://vigyanprasar.gov.in/vipnet-news-3/)
           *  Email: **vipnet@vigyanprasar.gov.in**
+
+
+ 2. **MacTutor **is a free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials. 
+  Link: https://mathshistory.st-andrews.ac.uk/
+
+![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/ab8e4834-72ff-4628-b79b-ef5df5a194eb)
