@@ -60,6 +60,11 @@ The council gives the following awards to science students, teachers and populis
       *  National Award for Outstanding Effort in Science and Technology Communication in the Electronic Medium, which carries INR 100,000.
 
 
+# Malaviya Mission Teacher Training Programme
+
+![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/808de60b-22ee-44e0-a7c9-6897994928ee)
+https://mmc.ugc.ac.in/Home/DefaultPage
+
 
 # বঙ্গীয় বিজ্ঞান পরিষদ
 
