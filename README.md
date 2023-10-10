@@ -11,7 +11,8 @@ https://iksindia.org/
 
 # National Mission for Manuscripts
 
-![Uploading image.png…]()
+![logo](https://github.com/ParthaPRay/Popular_Research/assets/1689639/f38b76b0-24e3-41be-a503-1abc13d79590)
+
 
 https://www.namami.gov.in/
 
