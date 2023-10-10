@@ -107,6 +107,7 @@ Link: https://mathshistory.st-andrews.ac.uk/
 
 * Approximate Chronology of Indian Philosophers https://plato.stanford.edu/entries/language-india/chronology.html
 
+* List of Indian Mathematicians https://en.wikipedia.org/wiki/List_of_Indian_mathematicians
 
 # **Journals**
 
