@@ -8,6 +8,12 @@ https://iksindia.org/
 
    * Research Proposal during July for 20 Lakhs for 2 Years
 
+# Shulba Sutras - Wikipedia
+
+The Shulva Sutras or Śulbasūtras (Sanskrit: शुल्बसूत्र; śulba: "string, cord, rope") are sutra texts belonging to the Śrauta ritual and containing geometry related to fire-altar construction.
+
+https://en.wikipedia.org/wiki/Shulba_Sutras#:~:text=The%20Shulba%20Sutras%20are%20part,unique%20gifts%20from%20the%20Gods.
+
 
 # National Mission for Manuscripts
 
