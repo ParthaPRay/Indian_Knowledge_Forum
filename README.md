@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/Shulba_Sutras#:~:text=The%20Shulba%20Sutras%20are%
   * Baudhayana
   * Manav (Manu)
   * Apastambha
-  * Katyan
+  * Katyayan
   * Pingala
 
 
@@ -103,15 +103,16 @@ Link: https://mathshistory.st-andrews.ac.uk/
 
 # **Mathigon** Timeline
 
-https://mathigon.org/timeline
-![Screenshot 2023-10-10 204739](https://github.com/ParthaPRay/Popular_Research/assets/1689639/46db00eb-9b30-453e-b1ce-2d21377eeaa4)
+* https://mathigon.org/timeline ![Screenshot 2023-10-10 204739](https://github.com/ParthaPRay/Popular_Research/assets/1689639/46db00eb-9b30-453e-b1ce-2d21377eeaa4)
+
+* Approximate Chronology of Indian Philosophers https://plato.stanford.edu/entries/language-india/chronology.html
 
 
 # **Journals**
 
 * Historia Mathematica https://www.sciencedirect.com/journal/historia-mathematica
 * Centaurus https://onlinelibrary.wiley.com/journal/16000498
-* 
+* Journal of Indian Philosophy https://www.springer.com/journal/10781
 
 
 
