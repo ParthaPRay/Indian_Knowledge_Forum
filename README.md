@@ -15,6 +15,15 @@ The Shulva Sutras or Śulbasūtras (Sanskrit: शुल्बसूत्र; ś
 https://en.wikipedia.org/wiki/Shulba_Sutras#:~:text=The%20Shulba%20Sutras%20are%20part,unique%20gifts%20from%20the%20Gods.
 
 
+  * Ancient Indian Mathematicians https://mathshistory.st-andrews.ac.uk/Biographies/category-indians/
+  * Sulba Sutra - Geometry in Ancient India I Power of Listening I DD India https://www.youtube.com/watch?v=6SICWBeiuN0&t=1139s&ab_channel=DDINDIA
+  * Baudhayana
+  * Manav (Manu)
+  * Apastambha
+  * Katyan
+  * Pingala
+
+
 # National Mission for Manuscripts
 
 ![logo](https://github.com/ParthaPRay/Popular_Research/assets/1689639/f38b76b0-24e3-41be-a503-1abc13d79590)
