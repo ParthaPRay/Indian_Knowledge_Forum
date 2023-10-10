@@ -95,25 +95,23 @@ Email: bijnanparishad@gmail.com
 
 # **MacTutor** 
 
-
 ![image](https://github.com/ParthaPRay/Popular_Research/assets/1689639/ab8e4834-72ff-4628-b79b-ef5df5a194eb)
 
+MacTutor is a free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials. 
+Link: https://mathshistory.st-andrews.ac.uk/
 
 
-
-# Mathematics Timeline
+# **Mathigon** Timeline
 
 https://mathigon.org/timeline
 ![Screenshot 2023-10-10 204739](https://github.com/ParthaPRay/Popular_Research/assets/1689639/46db00eb-9b30-453e-b1ce-2d21377eeaa4)
 
 
-# Journals
+# **Journals**
 
 * Historia Mathematica https://www.sciencedirect.com/journal/historia-mathematica
 * Centaurus https://onlinelibrary.wiley.com/journal/16000498
 * 
-MacTutor is a free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials. 
 
-  Link: https://mathshistory.st-andrews.ac.uk/
 
 
