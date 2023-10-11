@@ -1,6 +1,6 @@
 # Popular_Research_Ancient_India
 
-This repository contains various initiatives and published works on the campaign **"Everyday Research"** of research popularization among young masses in the world.
+This repository contains various initiatives and published works on the campaign **"Everyday Research"** of research popularization among young masses in the world based on Bhartiya sanatan gyan, vigyan, sahitya, shilpa, krishti, sanskriti.
 
 
 # Indian Knowledge Systems
