@@ -1,4 +1,5 @@
-# Popular_Research
+# Popular_Research_Ancient_India
+
 This repository contains various initiatives and published works on the campaign **"Everyday Research"** of research popularization among young masses in the world.
 
 
