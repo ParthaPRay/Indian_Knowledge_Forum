@@ -7,7 +7,7 @@ This repository contains various initiatives and published works on the campaign
 
 https://iksindia.org/
 
-   * Research Proposal during July for 20 Lakhs for 2 Years
+   * Research Proposal during July for 20 Lakhs for 2 Years.
 
 # Shulba Sutras - Wikipedia
 
