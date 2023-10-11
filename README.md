@@ -110,6 +110,14 @@ Link: https://mathshistory.st-andrews.ac.uk/
 
 * List of Indian Mathematicians https://en.wikipedia.org/wiki/List_of_Indian_mathematicians
 
+# Mathematics and Mathematical Astronomy
+
+Contains pdfs of lots of ancient manuscripts.
+https://www.wilbourhall.org/index.html
+
+
+
+
 # **Journals**
 
 * Historia Mathematica https://www.sciencedirect.com/journal/historia-mathematica
