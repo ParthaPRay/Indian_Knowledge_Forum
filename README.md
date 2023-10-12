@@ -115,6 +115,9 @@ Link: https://mathshistory.st-andrews.ac.uk/
 Contains pdfs of lots of ancient manuscripts.
 https://www.wilbourhall.org/index.html
 
+# **The Indian Society for History of Mathematics (ISHM)**
+
+ The Indian Society for History of Mathematics https://indianshm.org/
 
 # **Books**
 
@@ -124,6 +127,7 @@ https://www.wilbourhall.org/index.html
 * Geometry in Ancient and Medieval India By T. A. Sarasvati Amma · 1999 https://www.google.co.in/books/edition/Geometry_in_Ancient_and_Medieval_India/Ikfy03P7xAsC?hl=en&gbpv=0&kptab=overview
 * A History of Mathematical Notations Volumes 1-2 By Florian Cajori · 1993 https://www.google.co.in/books/edition/A_History_of_Mathematical_Notations/fNVYTRBTIJ8C?hl=en&gbpv=0
 * Number theory and its history By Oystein Ore · 1988 https://www.google.co.in/books/edition/Number_Theory_and_Its_History/Sl_6BPp7S0AC?hl=en&gbpv=0
+* Ganitananda, Ancient Indian Leaps into Mathematics, History of Mathematical Sciences I, History of Mathematical Sciences II  https://indianshm.org/index.php/books
 
 # **Journals**
 
@@ -131,6 +135,7 @@ https://www.wilbourhall.org/index.html
 * Centaurus https://onlinelibrary.wiley.com/journal/16000498
 * Journal of Indian Philosophy https://www.springer.com/journal/10781
 * Indian Journal of History of Science https://www.springer.com/journal/43539
+  
 
 
 
