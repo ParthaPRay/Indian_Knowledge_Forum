@@ -110,14 +110,17 @@ Link: https://mathshistory.st-andrews.ac.uk/
 
 * List of Indian Mathematicians https://en.wikipedia.org/wiki/List_of_Indian_mathematicians
 
-# Mathematics and Mathematical Astronomy
+# **Mathematics and Mathematical Astronomy**
 
 Contains pdfs of lots of ancient manuscripts.
 https://www.wilbourhall.org/index.html
 
 
-# Books
+# **Books**
+
 * Ancient Hindu Science https://link.springer.com/book/10.1007/978-3-031-79402-5
+* Computation in Ancient India https://dl.acm.org/doi/abs/10.5555/3073935
+
 
 # **Journals**
 
