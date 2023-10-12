@@ -121,6 +121,7 @@ https://www.wilbourhall.org/index.html
 * Ancient Hindu Science https://link.springer.com/book/10.1007/978-3-031-79402-5
 * Computation in Ancient India https://dl.acm.org/doi/abs/10.5555/3073935
 * Cultural Foundations of Mathematics: The Nature of Mathematical Proof and the Transmission of the Calculus from India to Europe in the 16th C. CE By C. K. Raju · 2007  https://www.google.co.in/books/edition/Cultural_Foundations_of_Mathematics/jza_cNJM6fAC?hl=en&gbpv=0&kptab=getbook
+* Geometry in Ancient and Medieval India By T. A. Sarasvati Amma · 1999 https://www.google.co.in/books/edition/Geometry_in_Ancient_and_Medieval_India/Ikfy03P7xAsC?hl=en&gbpv=0&kptab=overview
 
 
 # **Journals**
