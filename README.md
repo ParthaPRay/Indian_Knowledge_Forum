@@ -127,6 +127,7 @@ https://www.wilbourhall.org/index.html
 * Historia Mathematica https://www.sciencedirect.com/journal/historia-mathematica
 * Centaurus https://onlinelibrary.wiley.com/journal/16000498
 * Journal of Indian Philosophy https://www.springer.com/journal/10781
+* Indian Journal of History of Science https://www.springer.com/journal/43539
 
 
 
