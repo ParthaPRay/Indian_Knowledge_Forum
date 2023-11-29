@@ -136,6 +136,7 @@ https://www.wilbourhall.org/index.html
 * Journal of Indian Philosophy https://www.springer.com/journal/10781
 * Indian Journal of History of Science https://www.springer.com/journal/43539
 * Archive for History of Exact Sciences, https://www.springer.com/journal/407
+* Bhāvanā, https://bhavana.org.in/
   
 
 
