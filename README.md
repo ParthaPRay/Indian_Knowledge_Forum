@@ -1,6 +1,6 @@
-# Popular_Research_Ancient_India
+# Indian Knowledge Forum
 
-Repository of curated list that contains various initiatives and published works on the campaign of research popularization among young masses in the world based on Bhartiya sanatan gyan, vigyan, sahitya, darshan, shilpa, krishti, sanskriti.
+This forum is conceptualized by Partha Pratim Ray to disseminate the knowledge of India to the global audience.
 
 
 # Indian Knowledge Systems
