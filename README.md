@@ -45,7 +45,7 @@ Link: https://vigyanprasar.gov.in/
            
            * More information can be obtain from **dream@vigyanprasar.gov.in**
 
-              - My article is published on Dream 2047 issue: [**ChatGPT: A Revolution in Digital Domain**] (https://github.com/ParthaPRay/Indian_Knowledge_Forum/blob/main/CHATGPT%20A%20REVOLUTION%20IN%20DIGITAL%20DOMAIN%20DREAM%202047.pdf)
+              My article is published on Dream 2047 issue: [**ChatGPT: A Revolution in Digital Domain**] (https://github.com/ParthaPRay/Indian_Knowledge_Forum/blob/main/CHATGPT%20A%20REVOLUTION%20IN%20DIGITAL%20DOMAIN%20DREAM%202047.pdf)
               Issue February-March, 2024, Dream 2047 (https://vigyanprasar.gov.in/wp-content/uploads/Dream2047March2024.pdf). 
             
        *  Outreach - Bigyan Katha newsletter in **Bengali** (https://vigyanprasar.gov.in/bengali/bigyan-katha/)
