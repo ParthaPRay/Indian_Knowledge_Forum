@@ -42,8 +42,12 @@ Link: https://vigyanprasar.gov.in/
  
        *  Dream 2047 (https://vigyanprasar.gov.in/dream-2047/)
            * Email: **rnath@vigyanprasar.gov.in, rnath07@gmail.com** for submission on topic of the article should be of general interest, however, more emphasis may be given to S&T capabilities of India within 3000 words.
+           
            * More information can be obtain from **dream@vigyanprasar.gov.in**
 
+              - My article is published on Dream 2047 issue: [**ChatGPT: A Revolution in Digital Domain**] (https://github.com/ParthaPRay/Indian_Knowledge_Forum/blob/main/CHATGPT%20A%20REVOLUTION%20IN%20DIGITAL%20DOMAIN%20DREAM%202047.pdf)
+              Issue February-March, 2024, Dream 2047 (https://vigyanprasar.gov.in/wp-content/uploads/Dream2047March2024.pdf). 
+            
        *  Outreach - Bigyan Katha newsletter in **Bengali** (https://vigyanprasar.gov.in/bengali/bigyan-katha/)
        *  *  Email: **vigyankatha@vigyanprasar.gov.in** for submission of bengali written science fiction, science essay and scienc poem within 1000 words.
             
